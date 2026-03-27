@@ -81,7 +81,9 @@ Created a Digital Literacy Awareness Quiz with 5 questions
  Files:  
  `task-4-email-etiquette/emails.txt`  
  `task-4-email-etiquette/social-media-checklist.txt`  
-
+ https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/TASK%204%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s.txt
+https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/TASK%204%20Subject%20Application%20for%20Summer%20Internship.txt
+https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/TASK%204%20Subject%20Request%20for%20Assignment%20Deadline%20extension.txt
 
 
  Task 5 – Cybercrime Awareness
@@ -93,8 +95,10 @@ Description: Explained how phishing attacks occur and their impact
  Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
- `task-5-cybercrime/casestudy.txt`  
+ `task-5-cybercrime/casestudy.txt` 
+ https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/TASK%205%20PHIISHING%20CASE%20STUDY%20%20%20%20%20%20%20Phishing.txt
  `task-5-cybercrime/prevention-checklist.txt`  
+ https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/TASK%205%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
 
 
 
@@ -102,10 +106,8 @@ Description: Explained how phishing attacks occur and their impact
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+ https://github.com/mani25bai10676-sys/DIGITAL-LITERACY/blob/173ee8917e5c5f720ae98c6cc03687d93386825e/DIGITAL%20LITERACY%20PROJECT%20REPORT%20...pdf
  
-
-
-
  Tools & Platforms Used
  Canva  
  GitHub  
@@ -113,7 +115,6 @@ The detailed report of all tasks is included in the repository.
  Kaggle  
  HackerRank  
  Google Forms  
-
 
  Key Learnings
 Understanding of digital literacy concepts  
